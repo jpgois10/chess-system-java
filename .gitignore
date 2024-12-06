@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 ### git ignore full template
 # Diretórios de saída de compilação (gerados por Maven, Gradle, etc.)
 out/
 build/
+=======
+# Diretórios de saída de compilação (gerados por Maven, Gradle, etc.)
+out/
+>>>>>>> cfbf7bbadb84ed424a4db491a9897743d859ce63
 target/
 
 # Exceções: não ignorar os wrappers do Maven e os diretórios de build em src/main e src/test
@@ -15,7 +20,10 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+<<<<<<< HEAD
 **/.idea
+=======
+>>>>>>> cfbf7bbadb84ed424a4db491a9897743d859ce63
 *.iws
 *.iml
 *.ipr
